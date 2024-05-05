@@ -1,4 +1,4 @@
-![Screenshot 2024-05-05 234814](https://github.com/Sandhniya/softweb/assets/151395890/1f53de68-25bf-47b6-9ca8-bcafdd7b97bf)# Ex.07 Software Product Company Website
+Ex.07 Software Product Company Website
 ## Date:
 
 ## AIM:
